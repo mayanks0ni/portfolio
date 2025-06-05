@@ -3,7 +3,7 @@ const cors = require('cors');
 const path = require("path")
 const bodyParser = require("body-parser");
 const logger = require('morgan');
-const apikey = "AIzaSyAXCm1TZF2dNQkUvfmzUBh58UkJoYSm6r8";
+const apikey = "your-api-key";
 
 const app = express();
 const PORT = 3000;
